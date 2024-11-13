@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/java2024.iml" filepath="$PROJECT_DIR$/.idea/java2024.iml" />
       <module fileurl="file://$PROJECT_DIR$/tp3/tp3.iml" filepath="$PROJECT_DIR$/tp3/tp3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tp4/tp4.iml" filepath="$PROJECT_DIR$/tp4/tp4.iml" />
     </modules>
   </component>
 </project>

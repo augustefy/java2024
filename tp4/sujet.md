@@ -42,3 +42,7 @@ TextFile news.txt (644) created on 2018-03-16
 
 Enregistrement dans le fichier /home/provot/hierarchy_dump
 ```
+
+# Diagramme de classes
+
+![diagram.png](diagram.png)
